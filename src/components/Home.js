@@ -45,10 +45,12 @@ const Home = (props) => {
                 style={{
                   fontFamily: "Poppins, sans-serif",
                   fontWeight: 400,
-                  fontSize: "2em",
+                  fontSize: "2.2em",
                 }}
               >
-                Configuration And Maintenance Of GL Charge Products
+                Configuration And Maintenance
+                <br />
+                Of GL Charge Products
               </h1>
               <Button
                 variant="contained"
