@@ -1,16 +1,11 @@
 {
-  "short_name": "Serail",
-  "name": "Web Serial Terminal",
+  "short_name": "ChargeMate",
+  "name": "ChargeMate - Serial interface",
   "icons": [
     {
-      "src": "logo768.png",
+      "src": "favicon.png",
       "type": "image/png",
-      "sizes": "768x512"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "446x446"
     }
   ],
   "start_url": ".",
